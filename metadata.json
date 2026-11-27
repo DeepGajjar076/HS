@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Stay PMS",
+  "description": "Comprehensive hotel operations, guest & GST billing, room availability, staff shifts, F&B menu, custom invoice themes, and automated email receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
